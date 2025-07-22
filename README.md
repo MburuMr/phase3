@@ -87,7 +87,7 @@ The final model achieves:
 
 *Specific performance metrics will be displayed upon executing the complete pipeline.*
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 Based on the model results, the following strategies are recommended:
 
